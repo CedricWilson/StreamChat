@@ -1,6 +1,6 @@
-# chatapp1
+# StreamChat
 
-A new Flutter project.
+Basic Demo Chat app built using Stream Chat SDK
 
 ## Getting Started
 
